@@ -1,0 +1,41 @@
+ [
+		{
+			"id": 1,
+			"image":"https://www.istore.co.za/media/catalog/product/m/x/mxwv2soa.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+			"itemDescription": "Apple IMAC 27 Inch",
+			"quantity": 2,
+						"unitPrice": 22000
+
+
+		},
+		{
+			"id": 2,
+			"image":"https://image.shutterstock.com/image-vector/zaporizhzhia-ukraine-august-16-2021-600w-2025583124.jpg",
+			"itemDescription": "Iphone 12 Pro Max",
+			"quantity": 8,
+						"unitPrice": 25000
+		},
+		{
+			"id": 3,
+			"image":"https://www.incredible.co.za/media/catalog/product/cache/7ce9addd40d23ee411c2cc726ad5e7ed/S/p/Space_Grey____Position_1__dfe8.jpg",
+			"itemDescription": "Apple iPad Pro 12.9 Inch Wi-Fi + Cellular 128GB",
+			"quantity": 8,
+						"unitPrice": 23075
+		},
+		{
+			"id": 4,
+			"image":"https://www.istore.co.za/media/catalog/product/m/t/mtey2soa.jpeg?optimize=medium&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+			"itemDescription": "Apple Watch Series 3",
+			"quantity": 0,
+						"unitPrice": 4000
+		},
+		{
+			"id": 5,
+			"image":"https://www.istore.co.za/media/catalog/product/m/a/macbook_pro_space_grey-1_4.png?format=jpeg",
+			"itemDescription": "Apple MacBook Pro 16-inch Apple M1",
+			"quantity": 5,
+						"unitPrice": 45399
+		}
+		
+		
+	]
